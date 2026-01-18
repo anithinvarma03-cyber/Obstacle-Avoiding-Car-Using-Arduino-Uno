@@ -129,4 +129,5 @@ void stopCar() {
   digitalWrite(IN2, LOW);
   digitalWrite(IN3, LOW);
   digitalWrite(IN4, LOW);
-}
+}<img width="1536" height="1024" alt="225ea937-68d4-4bb7-8001-67e7d92186dc" src="https://github.com/user-attachments/assets/134d6782-e117-468d-a59d-23471c7fc807" />
+
